@@ -1,5 +1,5 @@
 # Cyber-security-awareness-email-company
-This is the weekly email I send to users in my company for cybersecurity awareness. The picture/poster is from the website in read me.
+This is the weekly email I send to users in my company for cybersecurity awareness.
 
 Poster
 1. https://www.cyberpilot.io/free-gdpr-and-cyber-security-posters
